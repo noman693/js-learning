@@ -2,7 +2,8 @@ const acountId = 12345;
 let acountEmail= "nomanmemon@.com";
 var acountPassword = "12345681";
 console.log(acountId);
-console.table([acountEmail,acountId,acountPassword]);
+let acountSate;
+console.table([acountEmail,acountId,acountPassword,acountSate]);
 
 
 // perfer not to use var
